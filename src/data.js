@@ -4,7 +4,7 @@ export const links = [
     {
         id: 1,
         url: '/',
-        text: 'random',
+        text: 'home',
     },
     {
         id: 2,
@@ -31,22 +31,22 @@ export const links = [
 export const social = [
     {
         id: 1,
-        url: 'https://www.twitter.com',
+        url: 'https://youtu.be/JpnpZH_IY8I',
         icon: <FaFacebook />,
     },
     {
         id: 2,
-        url: 'https://www.twitter.com',
+        url: 'https://youtu.be/JpnpZH_IY8I',
         icon: <FaTwitter />,
     },
     {
         id: 3,
-        url: 'https://www.twitter.com',
+        url: 'https://youtu.be/JpnpZH_IY8I',
         icon: <FaLinkedin />,
     },
     {
         id: 4,
-        url: 'https://www.twitter.com',
+        url: 'https://youtu.be/JpnpZH_IY8I',
         icon: <FaBehance />,
     },
 ];
